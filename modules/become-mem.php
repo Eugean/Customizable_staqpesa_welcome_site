@@ -3,8 +3,7 @@
         <div class="row">
             
             <?php
-//          require_once("require/shop_single/left_sidebar.php");
-            require_once("require/shop_single/single_products_details.php");
+            require_once("require/become_mem/member.php");
             ?>  
             
                    
