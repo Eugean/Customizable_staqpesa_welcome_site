@@ -7,11 +7,11 @@ $mail = new PHPMailer();
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'yourdomain.com';  // Specify main and backup SMTP servers
+$mail->Host = 'mail.zoho.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                                             // Enable SMTP authentication
-$mail->Username = 'yourusername';                 // SMTP username
-$mail->Password = 'password';             // SMTP password
-$mail->SMTPSecure = false;                            // Enable TLS encryption, `ssl` also accepted
+$mail->Username = 'info@reflexconcepts.co.ke';                 // SMTP username
+$mail->Password = '20reflexco@14';             // SMTP password
+$mail->SMTPSecure = TLS;                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 25;                                    // TCP port to connect to
 
 $message = "";

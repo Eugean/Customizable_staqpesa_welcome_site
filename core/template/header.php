@@ -14,7 +14,7 @@
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 </ul>
                 <div class="link">
-                    <a href="?account" class="thm-btn">Members Portal</a>
+                    <a href="http://cns.euniquecapital.com/" target="_blank" class="thm-btn">Members Portal</a>
                 </div>
             </div>
         </div>

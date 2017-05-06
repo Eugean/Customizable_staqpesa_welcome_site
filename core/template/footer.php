@@ -20,7 +20,7 @@
                                 <h3 class="footer-title">About Us</h3>
 
                                 <div class="widget-content">
-                                    <div class="text"><p>Eunique Capital Ventures is a venture catalyst 
+                                    <div class="text"><p>Eunique Capital Investments is a Capital Investment 
                                             firm assisting the next generation of exceptional 
                                             entrepreneurs who are designing and executing innovative 
                                             business models to profitably serve East Africa’s aspiring 
@@ -37,12 +37,12 @@
                                 <h3 class="footer-title">Guaranteed</h3>
                                 <div class="widget-content">
                                     <ul class="list">
-                                        <li><a href="#">Business Growth</a></li>
-                                        <li><a href="#">Sustainability</a></li>
-                                        <li><a href="#">Financial Performance</a></li>
-                                        <li><a href="#">Advanced Financial Analytics</a></li>
-                                        <li><a href="#">Customer Financial Insights</a></li>
-                                        <li><a href="#">Organization</a></li>
+                                        <li>Business Growth</li>
+                                        <li>Sustainability</li>
+                                        <li>Financial Performance</li>
+                                        <li>Advanced Financial Analytics</li>
+                                        <li>Customer Financial Insights</li>
+                                        <li>Organization</li>
                                     </ul>
                                 </div>
                             </div>
